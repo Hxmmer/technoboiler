@@ -1,3 +1,4 @@
+/* remove item from basket */
 var removeCartItem = document.getElementsByClassName('btn btn-primary btn-sm remove')
 console.log(removeCartItem);
 for (var i = 0; i < removeCartItem.length; i++) {
